@@ -33,6 +33,11 @@ Una aplicación móvil desarrollada en Android Studio que permite obtener inform
   - **Gson**: Para procesar el JSON de la respuesta.
 
 ---
+## 📦 Descarga del Proyecto
+El archivo comprimido del proyecto está disponible para su descarga desde el siguiente enlace:  
+[Descargar archivo](https://drive.google.com/file/d/1IFqWbPtyVRCL1P_uD1b9y7srY88gwosr/view?usp=sharing)
+
+---
 
 ## 🚀 Configuración del Proyecto
 1. Descarga y descomprime el archivo desde el enlace proporcionado.
